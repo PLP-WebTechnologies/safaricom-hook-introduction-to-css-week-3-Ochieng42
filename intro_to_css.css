@@ -1,0 +1,16 @@
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: #da1414;
+
+}
+.intro{
+    background-color: blue;
+    color: white;
+}
+#highlight{
+    border-style: groove;
+    border-color: rgb(7, 127, 224);
+    border-top-style:solid;
+    border: spacing 10px;;
+}
